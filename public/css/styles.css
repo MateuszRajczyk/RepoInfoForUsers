@@ -1,0 +1,93 @@
+html
+{
+	position: relative;
+	min-height: 100%;
+	min-width: 320px;
+}
+
+body
+{
+	color: #000000;
+	font-size: 17px;
+	margin: 0;
+	text-align: center;
+}
+
+#repoName
+{
+	background-color: #000000;
+}
+
+
+.inputUser
+{
+	background-color: transparent;
+	border: none;
+}
+
+.btn_get_repos
+{
+	font-weight: 500;
+	background-color: #bd610c;
+}
+
+.btn_get_repos:hover
+{
+	background-color: #ca9d06;
+}
+
+.btn_get_repos:focus
+{
+	box-shadow: none;
+}
+
+th, td, tr
+{
+	border: 2px solid #000000;
+}
+
+th
+{
+	font-weight: 700;
+	color: #000000;
+}
+
+td
+{
+	color: #000000;
+}
+
+a
+{
+	text-decoration: none;
+	color: #2f88a3;
+}
+
+a:hover
+{
+	color: #ccad23;
+}
+
+h2 > a:hover
+{
+	opacity: 0.9;
+	color: #2f88a3;
+}
+
+.input-group-text
+{
+	background-color: transparent;
+	border: none;
+}
+
+#user:focus
+{
+	box-shadow: none;
+	border: 2px solid #000000;
+}
+
+#selectSort:focus
+{
+	box-shadow: none;
+	border: 2px solid #000000;
+}
