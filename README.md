@@ -1,6 +1,6 @@
 # RepoInfoForUsers
 
-Simple application for get informations about repositories for given GitHub user
+Simple application for get informations about repositories using GitHub API
 
 Application provides info about repositories like as:
 
@@ -8,5 +8,3 @@ Application provides info about repositories like as:
 - Number of contributors
 - Info if repo is fork
 - Link for source if repo is fork
-
-Application made for recruitment purposes
